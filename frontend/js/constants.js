@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to theFamalams' OrcaFam NFT Project";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'theOrcaFam is the first collection of NFTs released by theFamalam. 5000 generated Orcas that have been drawn on an old laptop using a mousepad.';
+const welcome_p = 'theOrcaFam is the very first collection from theFamalam. theFamalam group are fun, quirky pfps with the eventual utility being a global, affordable and accessible mental health service pass. This collection was drawn using a laptop mousepad by the founder, overseen by his 5 year old "QA". We envision this project to be an everlasting one, working with other teams and services to implement a sustainable system to lower the global suicide rate. No one should feel they must take their own life. Join theFamalam and be apart of this monumental challenge we must face.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Come back soon to mint your Orca";
 const h1_public_mint = " Mint your Orca now!";
