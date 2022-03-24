@@ -14,7 +14,7 @@ const p_presale_mint_not_whitelisted = "There is no Whitelist or presale";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale!";
 const p_presale_mint_already_minted = "";
 const p_public_mint = "No whitelisting necessary. Mint your Orca now!";
-const button_presale_already_minted = "Join The Community";
+const button_presale_already_minted = "Join The Fam";
 const button_public_mint = "Mint Your Orca";
 const mint_failed = "Minting failed. Please try again.";
 
