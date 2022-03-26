@@ -1,5 +1,5 @@
-const contractAddress = "0xFC51D211deBD76c85021392ffC8130183eEDC3Ac"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xEF85f782cC2Cf9e068aD2a1C1f7f612aF136737C"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to theFamalams' OrcaFam NFT Project";
 const welcome_h2 = "Connect to MetaMask to Get Started";
