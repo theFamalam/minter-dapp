@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "theOrcaFam";
-const description = "A collection of 5000 Orcas to begin to raise capital to build a globally accessible suicide prevention service.";
+const description = "A collection of 5000 Orcas to raise capital to build a globally accessible suicide prevention service.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
