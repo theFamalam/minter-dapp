@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to theFamalams' OrcaFam NFT Project";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'theOrcaFam is the very first collection from theFamalam. theFamalam group are fun, quirky pfps with the eventual utility being a global, affordable and accessible mental health service pass.';
+const welcome_p = 'theOrcaFam are a collection of 5000 Orcas from theFamalam';
 const h1_presale_coming_soon = "theOrcaFam Coming Soon!";
 const h1_presale_mint = "Come back soon to mint your Orca";
 const h1_public_mint = "Mint your Orca here";
@@ -12,7 +12,7 @@ const h2_presale_mint = "Orca Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch our first NFT Collection. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "There is no Whitelist or presale";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale!";
-const p_presale_mint_already_minted = "Please icrease gas to ensure a successful mint. Check MetaMask& OpenSea if Dapp doesn't update.";
+const p_presale_mint_already_minted = "Please icrease gas to ensure a successful mint.";
 const p_public_mint = "Please icrease gas to ensure a successful mint and please check MetaMask& OpenSea if the Dapp doesn't update, thanks Fam!";
 const button_presale_coming_soon = "Join theFam";
 const button_presale_mint_whitelisted = "Mint Your Orca";
